@@ -24,3 +24,4 @@ This system is dedicated to helping acmer find its strengths and weaknesses, res
 - 通过爬虫自动更新用户的三大网站rating。
 - 通过爬虫，计算用户近一个月的通过题目数。
 - 用户之间的关注功能和系统广播机制。
+- 队内rating系统移植到该网站上。
